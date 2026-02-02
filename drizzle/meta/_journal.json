@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1770049945194,
+      "tag": "0000_init_users_email_verification",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1770051084904,
+      "tag": "0001_add_password",
+      "breakpoints": true
+    }
+  ]
+}
